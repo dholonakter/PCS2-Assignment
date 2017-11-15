@@ -1,0 +1,9 @@
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\bin\Debug\Assignment 1.1.exe.config
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\bin\Debug\Assignment 1.1.exe
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\bin\Debug\Assignment 1.1.pdb
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment_1._1.Form1.resources
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment_1._1.Properties.Resources.resources
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment 1.1.csproj.GenerateResource.Cache
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment 1.1.csproj.CoreCompileInputs.cache
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment 1.1.exe
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\Assignment 1.1\obj\Debug\Assignment 1.1.pdb

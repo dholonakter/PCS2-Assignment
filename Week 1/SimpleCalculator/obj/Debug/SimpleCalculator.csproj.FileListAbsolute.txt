@@ -1,0 +1,10 @@
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Study\CurrentSemester\Block2\PCS2\Assignment\MySolutions\Week1Practice\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
